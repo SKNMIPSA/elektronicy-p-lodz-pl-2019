@@ -153,6 +153,78 @@ ParamVariationCount=0
 DocumentPath=Project Outputs for elektronicy-p-lodz-pl-B-2018\Design Rule Check - pcb.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=__PRODUCTION\NC Drill\elektronicy-p-lodz-pl-2019-v10.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=__PRODUCTION\NC Drill\elektronicy-p-lodz-pl-2019-v10.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-2019-v10.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-2019-v10.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-2019-v10.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-2019-v10.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-2019-v10.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-2019-v10.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-2019-v10.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-2019-v10.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-2019-v10.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-2019-v10.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-2019-v10.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-2019-v10.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=__PRODUCTION\NC Drill\elektronicy-p-lodz-pl-2019-v10.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-2019-v10.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-2019-v10.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=__PRODUCTION\NC Drill\elektronicy-p-lodz-pl-2019-v10.TXT
+DItemRevisionGUID=
+
 [Parameter1]
 Name=ProjectCheckedBy
 Value=LR, MK, PP, ZK
@@ -189,7 +261,7 @@ OutputDir=Project Outputs for elektronicy-p-lodz-pl-B-2018
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Brother DCP-L2530DW series Printer
+TargetPrinter=Hewlett-Packard HP LaserJet 400 M401dne
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -310,7 +382,7 @@ OutputDefault23=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother DCP-L2530DW series Printer
+TargetPrinter=Hewlett-Packard HP LaserJet 400 M401dne
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -399,7 +471,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Brother DCP-L2530DW series Printer
+TargetPrinter=Hewlett-Packard HP LaserJet 400 M401dne
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -421,7 +493,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Brother DCP-L2530DW series Printer
+TargetPrinter=Hewlett-Packard HP LaserJet 400 M401dne
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -501,7 +573,7 @@ Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Brother DCP-L2530DW series Printer
+TargetPrinter=Hewlett-Packard HP LaserJet 400 M401dne
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -542,7 +614,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Brother DCP-L2530DW series Printer
+TargetPrinter=Hewlett-Packard HP LaserJet 400 M401dne
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -722,7 +794,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Brother DCP-L2530DW series Printer
+TargetPrinter=Hewlett-Packard HP LaserJet 400 M401dne
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Server's components states check
@@ -766,7 +838,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Brother DCP-L2530DW series Printer
+TargetPrinter=Hewlett-Packard HP LaserJet 400 M401dne
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -817,7 +889,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Brother DCP-L2530DW series Printer
+TargetPrinter=Hewlett-Packard HP LaserJet 400 M401dne
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
